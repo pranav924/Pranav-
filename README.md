@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav D Patgil</h1>
+<h1 align="center">Hi 👋, I'm Pranav D Patil</h1>
 <h3 align="center">Personal project</h3>
 
 - 🌱 I’m currently learning **Django, Flask**
